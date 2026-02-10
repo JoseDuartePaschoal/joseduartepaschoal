@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou José Duarte
 
-<!--
-**JoseDuartePaschoal/joseduartepaschoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (3º período)**, com foco em **Desenvolvimento Backend com Java**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Atualmente estudando
+
+- Java e Orientação a Objetos  
+- Desenvolvimento de APIs REST  
+- Banco de Dados SQL  
+- Git e GitHub  
+- Boas práticas de Engenharia de Software  
+
+---
+
+## 📌 Projeto em destaque
+
+### Pomoleague  
+Aplicativo de produtividade baseado na técnica Pomodoro com gamificação, desenvolvido como projeto acadêmico.
+
+🔗 Confira no repositório abaixo!
+
+---
+
+## 📫 Contato
+
+- Email: joseduartepaschoal@gmail.com  
+- LinkedIn: https://linkedin.com/in/joseduartepaschoal
