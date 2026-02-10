@@ -14,15 +14,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (3º período)**, com 
 
 ---
 
-## 📌 Projeto em destaque
-
-### Pomoleague  
-Aplicativo de produtividade baseado na técnica Pomodoro com gamificação, desenvolvido como projeto acadêmico.
-
-🔗 Confira no repositório abaixo!
-
----
-
 ## 📫 Contato
 
 - Email: joseduartepaschoal@gmail.com  
